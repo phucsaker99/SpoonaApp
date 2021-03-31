@@ -1,3 +1,51 @@
 <resources>
     <string name="app_name">SpoonaApp</string>
+    <string name="text_home">Home</string>
+    <string name="text_search">Search</string>
+    <string name="text_add_product_success">Add %s Successfully</string>
+
+    <string-array name="list_products">
+        <item>egg_free</item>
+        <item>wheat_free</item>
+        <item>grain_free</item>
+        <item>peanut_free</item>
+        <item>primal</item>
+        <item>vegetarian</item>
+        <item>nut_free</item>
+        <item>vegan</item>
+        <item>pescetarian</item>
+        <item>dairy_free</item>
+        <item>gluten_free</item>
+        <item>paleo</item>
+        <item>msg_free</item>
+        <item>no_artificial_colors</item>
+        <item>no_artificial_flavors</item>
+        <item>no_artificial_ingredients</item>
+        <item>grass_fed</item>
+        <item>no_added_sugar</item>
+        <item>pasture_raised</item>
+        <item>free_range</item>
+        <item>cage_free</item>
+        <item>wild_caught</item>
+        <item>fair_trade</item>
+        <item>no_additives</item>
+        <item>hormone_free</item>
+        <item>no_preservatives</item>
+        <item>sugar_free</item>
+        <item>sulfite_free</item>
+        <item>corn_free</item>
+        <item>soy_free</item>
+        <item>nitrate_free</item>
+        <item>gmo_free</item>
+        <item>organic</item>
+        <item>kosher</item>
+        <item>halal</item>
+        <item>sustainable</item>
+        <item>non_alcoholic</item>
+        <item>lactose_free</item>
+        <item>whole_grain</item>
+        <item>whole_wheat</item>
+        <item>multigrain</item>
+        <item>sprouted_grain</item>
+    </string-array>
 </resources>
